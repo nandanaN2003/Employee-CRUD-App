@@ -23,6 +23,7 @@ const Header = () => {
           type="button"
           data-bs-toggle="collapse"
           data-bs-target="#navbarNav"
+          
         >
           <span className="navbar-toggler-icon"></span>
         </button>
